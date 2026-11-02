@@ -240,4 +240,5 @@ Valores normais e estáveis de `V14`, `V10` e `V4` mantiveram a contribuição n
 ---
 
 ## 👨‍💻 Autor
-Desenvolvido por **Daniel** como projeto de portfólio para o bootcamp **Bradesco / Santander DIO - Agentes de IA do Zero à Prática**.
+Desenvolvido por **Daniel** como projeto de portfólio para o bootcamp [Bradesco - Agentes de IA do Zero a Prática](https://www.dio.me/bootcamp/bradesco-agentes-de-ia-do-zero-a-pratica) na plataforma [DIO](https://www.dio.me/).
+
