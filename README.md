@@ -184,8 +184,8 @@ Valores normais e estáveis de `V14`, `V10` e `V4` mantiveram a contribuição n
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-   cd SEU_REPOSITORIO
+   git clone https://github.com/DanielDaigo/deteccao-fraudes-financeiras.git
+   cd deteccao-fraudes-financeiras
    ```
 
 2. **Crie e ative o ambiente virtual:**
